@@ -1,0 +1,36 @@
+.home__nav{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start; 
+    
+    height: 5rem;
+    margin: 0 15rem;
+}
+.home__navbar{
+    border-bottom: 1px solid rgb(207, 205, 205);
+    width: 100vw;
+
+}
+.nav__form{
+    flex: 0.7;
+    height: 60%;
+    margin: 0 1.2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid rgb(20, 20, 20);
+}
+.nav__input{
+    width: 90%;
+    height: 100%;
+    border: none;
+    outline: none;
+}
+.nav__iconList{
+    display: flex;
+    font-size: 0.6rem;
+    color: rgb(179, 174, 174);
+}
+.nav__icon{
+    margin: 0 0.5rem;
+}
